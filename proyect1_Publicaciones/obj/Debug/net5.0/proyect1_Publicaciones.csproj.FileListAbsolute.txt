@@ -85,3 +85,4 @@ C:\Users\usuario123\proyects\DesApps\Práctica\Fase3\PRC11\proyect1_Publicacione
 C:\Users\usuario123\proyects\DesApps\Práctica\Fase3\PRC11\proyect1_Publicaciones\obj\Debug\net5.0\proyect1_Publicaciones.genruntimeconfig.cache
 C:\Users\usuario123\proyects\DesApps\Práctica\Fase3\PRC11\proyect1_Publicaciones\obj\Debug\net5.0\Razor\Pages\Publications\Index.cshtml.g.cs
 C:\Users\usuario123\proyects\DesApps\Práctica\Fase3\PRC11\proyect1_Publicaciones\obj\Debug\net5.0\Razor\Pages\Publications\Create.cshtml.g.cs
+C:\Users\usuario123\proyects\DesApps\Práctica\Fase3\PRC11\proyect1_Publicaciones\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll

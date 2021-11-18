@@ -21,12 +21,14 @@
     int hash = User.Identity.GetHashCode();
 }
 
+
 @if (Model.Publicaciones.Count() > 0)
 {
     <br />
     <div class="card">
         <div class="card-header">
             @User.Identity.Name
+            @User.Identity.GetHashCode();
         </div>
         <div class="card-body">
             <blockquote class="blockquote mb-0">

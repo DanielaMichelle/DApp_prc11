@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fWs+ZyWTZg6zyVnNB4+7fYceW0FGMX9poVC8Yw8ACFUnVvgMiGldS3HJTwE3lN0S0NLp2tUqXv05F1bNWyTUmw==",
+  "dgSpecHash": "bZYY3VEAfymCv8ORz15Ecre/tyON307GlPnIbw76bAbeyYw1LXTIWZ6A2zyBEIjP+HtV0h+plxGbjJ7uVXj7vg==",
   "success": true,
   "projectFilePath": "C:\\Users\\usuario123\\proyects\\DesApps\\Práctica\\Fase3\\PRC11\\proyect1_Publicaciones\\proyect1_Publicaciones.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario123\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\usuario123\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\3.1.2\\microsoft.aspnetcore.authentication.google.3.1.2.nupkg.sha512",
     "C:\\Users\\usuario123\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",
     "C:\\Users\\usuario123\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.4\\microsoft.aspnetcore.cryptography.keyderivation.5.0.4.nupkg.sha512",
     "C:\\Users\\usuario123\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.4\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.4.nupkg.sha512",

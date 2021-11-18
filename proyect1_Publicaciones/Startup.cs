@@ -54,6 +54,13 @@ namespace proyect1_Publicaciones
                 "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._@+";
                 options.User.RequireUniqueEmail = false;
             });
+
+            services.AddAuthentication()
+                .AddGoogle(options => {
+                    options.ClientId = "564204374944-10s62e2pnfehjfanp5hg1a5lt46mj0n6.apps.googleusercontent.com";
+                    options.ClientSecret = "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";
+                });
+
             services.ConfigureApplicationCookie(options =>
             {
                 // Cookie settings
